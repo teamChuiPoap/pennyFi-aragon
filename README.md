@@ -1,18 +1,7 @@
-# Aragon Client <a href="https://aragon.org/"><img align="right" src=".github/assets/aragon.svg" height="80px" /></a>
-
-[![Build Status](https://img.shields.io/github/workflow/status/aragon/client/Run%20tests?style=flat-square)](https://github.com/aragon/client/actions)
-[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors)
+# PennyFi powered by Aragon OSx <a href="https://aragon.org/"><img align="right" src=".github/assets/aragon.svg" height="80px" /></a>
 
 
 
-
-
-- 📚 Read the [User Guide](https://help.aragon.org/) first, if you have any questions as a user.
-- 🏗 If you'd like to develop an Aragon app, please visit the [Aragon Developer Portal](https://hack.aragon.org).
-
-
-- 📖 To learn more about contributing to the Aragon client itself, please check the [contributing guide](./CONTRIBUTING.md).
-- 🚢 For an overview of what changed with each release, check the [releases](https://github.com/aragon/client/releases).
 
 ## Quick start
 
@@ -43,23 +32,6 @@ A number of environment secrets are required during publishing and these are som
 
 You may either specify these secrets as environment variables or use a `.env`.
 
-## Contributing
-
-#### 👋 Get started contributing with a [good first issue](https://github.com/aragon/client/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
-
-**🎓 You may be interested in the [Aragon client architecture guide](./docs/ARCHITECTURE.md) if you're not familiar with how the project is set up.**
-
-Don't be shy to contribute even the smallest tweak. 🐲 There are still some dragons to be aware of, but we'll be here to help you get started!
-
-For other details about contributing to Aragon, more information is available in the [contributing guide](./CONTRIBUTING.md).
-
-#### Issues
-
-If you come across an issue with Aragon, do a search in the [Issues](https://github.com/aragon/client/issues?utf8=%E2%9C%93&q=is%3Aissue) tab of this repo and the [Aragon Apps Issues](https://github.com/aragon/aragon-apps/issues?utf8=%E2%9C%93&q=is%3Aissue) to make sure it hasn't been reported before. Follow these steps to help us prevent duplicate issues and unnecessary notifications going to the many people watching this repo:
-
-- If the issue you found has been reported and is still open, and the details match your issue, give a "thumbs up" to the relevant posts in the issue thread to signal that you have the same issue. No further action is required on your part.
-- If the issue you found has been reported and is still open, but the issue is missing some details, you can add a comment to the issue thread describing the additional details.
-- If the issue you found has been reported but has been closed, you can comment on the closed issue thread and ask to have the issue reopened because you are still experiencing the issue. Alternatively, you can open a new issue, reference the closed issue by number or link, and state that you are still experiencing the issue. Provide any additional details in your post so we can better understand the issue and how to fix it.
 
 #### Contributors
 
